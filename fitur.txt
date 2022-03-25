@@ -1,0 +1,3 @@
+- service user login into system
+- service user register
+- payment gateaway
